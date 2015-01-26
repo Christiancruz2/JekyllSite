@@ -1,0 +1,14 @@
+HOW TO:
+
+Step 1: Make sure Jekyll installed 
+
+Step 2: type into command prompt jekyll new autospaces-site
+
+Step 3: cd into new directory 
+ex. cd autospaces-site......cd:/autospaces-site
+
+Step 4: delete all folders in directory (will be copying over same files from github) 
+
+Step 5: copy files from github into directory
+
+Step 6: test site using jekyll serve command in the command prompt. 
